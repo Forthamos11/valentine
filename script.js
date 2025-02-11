@@ -21,5 +21,5 @@ noButton.addEventListener('click', () => {
     gif.src = sad;
     text.innerHTML = "Noooooo! You're not my valentine! I hate you!!!!!"; 
     noButton.style.display = "none";
-    yesButton.innerHTML = "Im sorry Pookie! I changed my mind!";
+    yesButton.innerHTML = "doch. du gemeine Apfelsine <3";
 });
